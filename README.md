@@ -17,6 +17,10 @@ To explore the differences between the execution configurations of GPU base vect
 ```
 ## Program:
 ```
+DEVELOPED BY : Vijayalakshmi Punyala
+REGISTER NO : 212221040134
+```
+```
 #include "common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
